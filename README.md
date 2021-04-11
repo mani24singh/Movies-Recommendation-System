@@ -37,7 +37,6 @@ It contains 100004 ratings and 1296 tag applications across 9125 movies. These d
 - scipy
 - scikit-learn
 - scikit-surprise
-- lightfm
 - matplotlib
 - seaborn
 - jupyter notebook
@@ -75,6 +74,7 @@ It contains 100004 ratings and 1296 tag applications across 9125 movies. These d
    - [link 2](https://github.com/NicolasHug/Surprise/issues/89)
    - [link 3](https://github.com/NicolasHug/Surprise/issues/21)
    - [link 4](https://github.com/NicolasHug/Surprise/issues/99)
+   - [link 5](https://stackoverflow.com/questions/62042317/cannot-install-scikit-surprise-on-my-jupyter-notebook)
 
 ### Install Pycharm IDE:
    - Step 1: Download pycharm IDE community edition by using this [link](https://www.jetbrains.com/edu-products/download/#section=idea)
