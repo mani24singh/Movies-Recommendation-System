@@ -1,4 +1,4 @@
-# Movies_Recommendation_System
+# Movies Recommendation System
 - This Project repository is based on Building a movies recommendation system clone 
 
 ## Dataset Details:
